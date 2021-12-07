@@ -1,8 +1,6 @@
 # Chrome-extensions
 
 
-# Chrome extension
-
 ## These extensions are made for fun 👍
 
 * FontColor Changer
